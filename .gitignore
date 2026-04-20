@@ -1,0 +1,27 @@
+# Build outputs
+main_test
+*.o
+*.obj
+*.so
+*.a
+*.out
+
+# Debug / coverage artifacts
+*.dSYM/
+*.gcno
+*.gcda
+*.gcov
+coverage/
+
+# Local tooling
+.codex
+.codex/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
