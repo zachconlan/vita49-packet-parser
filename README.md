@@ -109,7 +109,7 @@ python3 tools/gen_clean_stream.py --num-packets 5000 --sleep 0 | ./main_test
 
 ---
 
-## 🧪 Automated Tests
+## Automated Tests
 
 Run all tests:
 
